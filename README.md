@@ -1,0 +1,1 @@
+# resharper-ubuntu-docker-image
